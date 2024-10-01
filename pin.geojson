@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.33853161146,
+          36.1464584143499,
+          100
+        ]
+      },
+      "properties": {
+        "name": "Lot: LOTNUM",
+        "styleUrl": "#customText",
+        "styleHash": "-48fc337b",
+        "LotSize": "LOTSIZE",
+        "OwnershipType": "OWNERSHIPTYPE",
+        "OwnerType": "OWNERTYPE",
+        "ContactNumber": "CONTACTNUM",
+        "ContactName": "CONTACTNAME",
+        "WhatsAppNumber": "CONTACTWANUM",
+        "EmailAddress": "CONTACTEMAIL",
+        "Note": "NOTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.3396586818843,
+              36.14637618647505,
+              1784
+            ],
+            [
+              -112.3380597654315,
+              36.14531751871353,
+              1784
+            ],
+            [
+              -112.3368254237788,
+              36.14659596244607,
+              1784
+            ],
+            [
+              -112.3384555043203,
+              36.14762621763982,
+              1784
+            ],
+            [
+              -112.3396586818843,
+              36.14637618647505,
+              1784
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Lot: LOTNUM",
+        "styleUrl": "#customText",
+        "styleHash": "-48fc337b",
+        "LotSize": "LOTSIZE",
+        "visibility": "1"
+      }
+    }
+  ]
+}
